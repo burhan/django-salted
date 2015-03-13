@@ -39,7 +39,6 @@ Django salted requires the following software to be installed on your machine:
 
 - [Virtualbox]
 - [Vagrant]
-- [Salty Vagrant]
 
 You also need [Fabric] and [Fabtools] if you want to run the Fabric
 commands. You can find these requirements in the [requirements.txt] file in
